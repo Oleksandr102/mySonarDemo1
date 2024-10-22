@@ -1,6 +1,5 @@
 name: Sonar
 on:
-  workflow_dispatch:
   push:
     branches:
       - main # the name of your main branch
